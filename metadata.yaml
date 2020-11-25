@@ -1,0 +1,31 @@
+_repo: The-Clay-Industries-Including-the-Fictile-Ceramic-Arts-on-the-Banks-of-the-Severn-with-notice__63771
+_version: 0.0.1
+alternative_title: "The Clay Industries, Including the Fictile and Ceramic Arts on\
+  \ the Banks of the Severn\r\nwith notices of the early use of Shropshire clays,\
+  \ the history of pottery, porcelain, etc. in the district"
+creator:
+  author:
+    agent_name: Randall, John
+    birthdate: 1810
+    deathdate: 1910
+    gutenberg_agent_id: '7491'
+    url: http://www.gutenberg.org/2009/agents/7491
+description: ''
+gutenberg_issued: '2020-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Porcelain, English'
+- !lcsh 'Ceramics -- Great Britain -- History'
+- !lcsh 'Clay industries -- Great Britain -- History'
+- GITenberg
+title: "The Clay Industries, Including the Fictile & Ceramic Arts on the Banks of\
+  \ the Severn\r\nwith notices of the early use of Shropshire clays, the history of\
+  \ pottery, porcelain, &c. in the district"
+url: http://www.gutenberg.org/ebooks/63771
